@@ -5,10 +5,6 @@
 
 void main()
 {
-    int a;
-    int b;
-    int suma=a+b;
-    printf("%d\n", suma);
-    return 0;
+   
 }
 
